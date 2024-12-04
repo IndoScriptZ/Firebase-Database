@@ -1,3 +1,4 @@
+--link: "firebase.google.com"
 local Secret = "YOUR_FIREBASE_SECRET_HERE"
 local URL = "YOUR_FIREBASE_URL_HERE"
 local Folder = "Parent/Name" --You can change the parent or the location of the data
